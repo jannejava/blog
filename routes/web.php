@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 Route::get('/hello', function () {
-    dd('hello!');
+    dd('hello!!!!');
 });
 
 
